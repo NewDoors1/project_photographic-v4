@@ -6,9 +6,12 @@
 
 ##Atualizações:
 • Página mídia, feita pelo Edy e Renann
+
 • Indicações para o Lukinhas, de como fazer e adicionar as estórias
+
 • Mudanças no rodapé
 
 ##Nota:
+
 O vídeo ficou grande demais para ser hospedado no GitHub, então, quando for fazer a mídia (mensagem para o Lukinhas) escreva com o vídeo rodando em uma aba, se quiser, para tentar se basear.
 
