@@ -16,6 +16,8 @@
 
 O vídeo ficou grande demais para ser hospedado no GitHub, então, quando for fazer a mídia (mensagem para o Lukinhas) escreva com o vídeo rodando em uma aba, se quiser, para tentar se basear.
 
+Se ficar trabalhoso, caso precise, temos um Driver com o vídeo, a partir daí é só jogá-lo dentro da pasta "media".
+https://drive.google.com/drive/folders/1rX3XM0IAc7QHpjwUeqgTgKkjEoIm7ggR?usp=sharing
 
 
 
